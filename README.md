@@ -1,12 +1,12 @@
 # Echo Cabins
 > Wordpress developer test project from On The Map Marketing - [On The Map](http://www.onthemapmarketing.com/)
 
-### Project Requirements
+## Project Requirements
 The main objective is to create a simple Wordpress theme to see your overall knowledge of front-end and Wordpress. The task shouldn't take longer than 5 hours.
 
 > Theme Design Url [Here](https://www.figma.com/file/wlHkIdGPof21RWVJuNkREn/Wordpress-Test-Task?node-id=11138%3A49)
 
-##### Technical requirements
+#### Technical requirements
 1. &cross; - Create Wordpress theme, if you prefer you can use any of boilerplates, for example underscores.me, sage etc.
 2. &check; - Use Bootstrap 5
 3. &check; - Use SASS
@@ -24,24 +24,24 @@ The main objective is to create a simple Wordpress theme to see your overall kno
 
 ## Project Work Submissions
 
-#### Overview
+### Overview
 The project is based on a WordPress theme development with the use of SASS for frontend design. The application is designed as per the required design from figma layout. All the images and icons and contents being used from that. The design is fully responsive for both desktop and mobile view. The design already tested into the different browsers like Google Chrome, Microsoft Edge, Safari and Mozila Firefox. As per the extra work about the animation of the website, the bootstrap slider has been used for slide show and for page contents transition 3rd party library AOS has used on the project. The navigation menu is also responsive in any view. Not only the menu comes if it's saved to the header position, but also the default design of the menu is also handled responsive. The logo is dynamic on the theme and the website is made from scratch without any boilerplate template.
 
-#### Previews
-##### Desktop Version
+### Previews
+#### Desktop Version
 ![Echo Cabins Desktop Preview](http://onthemap.misujon.com/wp-content/uploads/2021/05/echo-cabins-desktop-version.png)
-##### Mobile Version
+#### Mobile Version
 ![Echo Cabins Desktop Preview](http://onthemap.misujon.com/wp-content/uploads/2021/05/echo-cabins-mobile-version.png)
 
 
-#### Libraries and Frameworks Used
+### Libraries and Frameworks Used
 1. Bootstrap 5
 2. Laravel Mix - Supports the SASS compilations through WebPack library
 3. AOS - Animate on Scroll
 4. WordPress CMS
 
 
-#### Installation Process
+### Installation Process
 1. Download the theme as zip from git repository
 2. Logging into the WP admin dashboard
 3. Go to Appearance > Themes from  admin menu
@@ -50,7 +50,7 @@ The project is based on a WordPress theme development with the use of SASS for f
 6. After successfully install, now activate the theme
 7. Now all done
 
-#### Theme Configuring Process
+### Theme Configuring Process
 1. After successful installation, go to Appearance > Customize from admin menu
 2. Now in customize go to Site Identity, there will be logo option
 3. Click on the logo and upload the logo. By default site title will be shown as logo.
@@ -61,12 +61,12 @@ The project is based on a WordPress theme development with the use of SASS for f
 > **Note:** If need to create make a menu item as button shape, then please activate the **CSS Classes** from **Screen Options** at the top right corner of WP admin panel. Than click to the added menu item and there will be a field called **CSS Classes (Optional)**. Now you **Bootstrap 5** button classes and save the menu again, all will be working perfectly. **_Example: btn btn-sm btn-light text-dark_**
 
 
-#### Live Demo Credentials
+### Live Demo Credentials
 Here us live demo url of the theme: **[Live Demo](http://onthemap.misujon.com/)**
 
 
-#### Author Info
-#### Monirul Islam Sujon
+### Author Info
+### Monirul Islam Sujon
 <p>Full Stack Web Application Developer</p>
 
 [monirul.islam.sujon@gmail.com](mailto:monirul.islam.sujon@gmail.com)<br>
@@ -76,5 +76,5 @@ Here us live demo url of the theme: **[Live Demo](http://onthemap.misujon.com/)*
 
 
 
-## Thank you 
+# Thank you 
 
