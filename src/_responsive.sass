@@ -1,0 +1,49 @@
+$media-desktop: "only screen and (max-width : 1024px)"
+$media-tablet: "only screen and (max-width : 768px)"
+
+@media #{$media-desktop}
+  .echocabin-content-area-1
+    background-size: cover
+    background-image: none !important
+    background-color: #fff
+
+  .echocabin-home-content-1 p, .echocabin-home-content-1 h1
+    max-width: 50%
+
+  .echocabin-home-content-1-image
+    top: 20%
+    margin-top: auto
+
+  .echocabin-home-content-1-image #carouselExampleIndicators
+    width: 100%
+
+
+@media #{$media-tablet}
+  .echocabin-content-area-1
+    background-size: cover
+
+  .echocabin-home-content-1 p, .echocabin-home-content-1 h1
+    max-width: 100%
+
+  .echocabin-home-content-1-image
+    position: relative
+    top: 0
+    margin-bottom: 3rem
+    width: 100%
+
+  .echocabin-home-3 img
+    width: 100%
+    margin-bottom: 3rem
+
+  .echocabin-home-3
+    padding: 50px 0
+
+  .echocabin-header-front .menu-item, .navbar-nav .page_item
+    padding: 5px 0
+
+  .echocabin-header-front .menu-item.btn
+    padding: 5px 25px !important
+    margin-top: 5px
+
+  .echocabin-header-front .menu-item:last-child, .navbar-nav .page_item:last-child
+    margin-right: auto!important
