@@ -28,20 +28,10 @@ The main objective is to create a simple Wordpress theme to see your overall kno
 The project is based on a WordPress theme development with the use of SASS for frontend design. The application is designed as per the required design from figma layout. All the images and icons and contents being used from that. The design is fully responsive for both desktop and mobile view. The design already tested into the different browsers like Google Chrome, Microsoft Edge, Safari and Mozila Firefox. As per the extra work about the animation of the website, the bootstrap slider has been used for slide show and for page contents transition 3rd party library AOS has used on the project. The navigation menu is also responsive in any view. Not only the menu comes if it's saved to the header position, but also the default design of the menu is also handled responsive. The logo is dynamic on the theme and the website is made from scratch without any boilerplate template.
 
 #### Previews
-<table>
-    <tr>
-        <th>Desktop Version</th>
-        <th>Mobile Version</th>
-    </tr>
-    <tr>
-        <td>
-            ![Echo Cabins Desktop Preview](http://onthemap.misujon.com/wp-content/uploads/2021/05/echo-cabins-desktop-version.png)
-        </td>
-        <td>
-            ![Echo Cabins Desktop Preview](http://onthemap.misujon.com/wp-content/uploads/2021/05/echo-cabins-mobile-version.png)
-        </td>
-    </tr>
-</table>
+##### Desktop Version
+![Echo Cabins Desktop Preview](http://onthemap.misujon.com/wp-content/uploads/2021/05/echo-cabins-desktop-version.png)
+##### Mobile Version
+![Echo Cabins Desktop Preview](http://onthemap.misujon.com/wp-content/uploads/2021/05/echo-cabins-mobile-version.png)
 
 
 #### Libraries and Frameworks Used
@@ -86,5 +76,5 @@ Here us live demo url of the theme: **[Live Demo](http://onthemap.misujon.com/)*
 
 
 
-##Thank you 
+## Thank you 
 
